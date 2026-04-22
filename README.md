@@ -39,3 +39,17 @@ Source: Kaggle — Nykaa Top Brands Cosmetics Product Reviews
    vaderSentiment pandasql openpyxl`
 3. Open `nykaa_analysis.ipynb` in Jupyter Notebook
 4. Run all cells in order
+
+## Charts
+
+### Average rating by brand
+![Brand Ratings](chart1_brand_ratings.png)
+
+### Review growth 2015–2022
+![Yearly Trend](chart2_yearly_trend.png)
+
+### Rating distribution
+![Rating Distribution](chart3_rating_distribution.png)
+
+### Brand vs year heatmap
+![Heatmap](chart4_heatmap.png)
